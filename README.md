@@ -1,2 +1,4 @@
 # MageMadness
-A short puzzle platformer made in C++ with SFML and CMake for the  Games Engineering module at Napier University
+A short prototype of a platformer made using C++ and SFML for Games Engineering module at Edinburgh Napier University
+
+[GameLink](https://edgarx33.itch.io/mage-madness)

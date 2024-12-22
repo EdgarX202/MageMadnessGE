@@ -5,8 +5,6 @@
 * Time taken to complete: 1 month.
 * Agile and Scrum approaches implemented to make the development smoother and organised.
 
-[Download_Game_Here](https://edgarx33.itch.io/mage-madness)
-
 <img src='https://github.com/EdgarX202/MageMadnessGE/assets/79812399/59c202f2-7581-499b-b467-06ec2d2025b1' width='600'> </br>
 * The game has multiple levels with increasing difficulty.
 * The player has shoot, charged jump and teleport abilities.
